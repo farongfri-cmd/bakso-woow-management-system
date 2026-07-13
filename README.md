@@ -125,11 +125,11 @@ php artisan serve
 
 ## 👨‍🎓 Penulis
 
-**Faron**
+**Faron Al Giffari**
 
 Program Studi Sistem Informasi
 
-Universitas ...
+Universitas Esa Unggul
 
 ---
 
